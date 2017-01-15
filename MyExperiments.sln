@@ -3,7 +3,12 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Topshelf", "Topshelf\Topshelf.csproj", "{1AADAF8D-249D-4FEF-93F4-85A4BC1BA448}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TopRabbit", "TopRabbit\TopRabbit.csproj", "{A8D5C85F-9E59-4EC8-B73A-BBDF0A888402}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{DE938D00-9291-4477-B4EB-DAF3FBE5D664}"
+	ProjectSection(SolutionItems) = preProject
+		ReadMe.md = ReadMe.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +16,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{1AADAF8D-249D-4FEF-93F4-85A4BC1BA448}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{1AADAF8D-249D-4FEF-93F4-85A4BC1BA448}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{1AADAF8D-249D-4FEF-93F4-85A4BC1BA448}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{1AADAF8D-249D-4FEF-93F4-85A4BC1BA448}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8D5C85F-9E59-4EC8-B73A-BBDF0A888402}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8D5C85F-9E59-4EC8-B73A-BBDF0A888402}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8D5C85F-9E59-4EC8-B73A-BBDF0A888402}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8D5C85F-9E59-4EC8-B73A-BBDF0A888402}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
